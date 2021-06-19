@@ -1,0 +1,15 @@
+{
+  "name": "handwritten-code-collection",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:javastation/handwritten-code-collection.git",
+  "author": "似水微寒 <lhpmails@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.14.5",
+    "standard": "^16.0.3"
+  },
+  "standard": {
+    "parser": "@babel/eslint-parser"
+  }
+}
